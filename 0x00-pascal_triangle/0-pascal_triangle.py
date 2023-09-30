@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-pascal triangle
-"""
-
+""" pascal triangle """
 def pascal_triangle(n):
     """fucntion to get the integer of pascal triangle"""
     if n <= 0:
